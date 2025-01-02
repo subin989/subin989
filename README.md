@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @subin989
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning web development
+- 🌱 Mastering Fullstack web development
 - 📫 You can reach me through satyalsubin33@gmail.com
 
 <!---
